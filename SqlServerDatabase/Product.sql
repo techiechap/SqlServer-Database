@@ -4,5 +4,6 @@
     [Name] VARCHAR(50) NULL, 
     [Cost] INT NULL, 
     [Color] NVARCHAR(50) NULL, 
-    [Shop Name] NCHAR(10) NULL
+    [Shop Name] NCHAR(10) NULL, 
+    [Date] DATETIME NULL
 )
